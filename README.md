@@ -44,6 +44,12 @@ FeelWave_Code
 
 ## 📘 Overview
 
+### 📥 Download Link
+
+The dataset is hosted on Google Drive and can be accessed here:
+
+**Google Drive:** [https://drive.google.com/drive/folders/1cz9HyZnOnnnz9P6w1o-4E_5BA-7EFUrJ?usp=drive_link](https://drive.google.com/drive/folders/1cz9HyZnOnnnz9P6w1o-4E_5BA-7EFUrJ?usp=drive_link)
+
 **EmoDataset** is a paired **mmWave–audio emotional speech** dataset collected in an **IRB-approved** study. Over one month, **27 stage actors** (11 male, 16 female, aged 18–31) were recruited to perform scripted emotional speech while synchronized **mmWave IF signals** and **audio waveforms** were recorded.
 
 The dataset supports research on multimodal emotion sensing, vocal biomechanics, robust speech modeling, and mmWave–audio alignment.
@@ -166,3 +172,6 @@ Raw data maintain their native sampling rates and radar frame formats.
 | Formats         | HDF5 (processed), raw (audio & mmWave)     |
 | Synchronization | Time-aligned within each sample            |
 
+---
+
+*You may extend this README with License, Citation, Data Loading Examples, or Benchmark Tasks as needed.*
