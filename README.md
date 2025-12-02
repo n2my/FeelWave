@@ -173,5 +173,3 @@ Raw data maintain their native sampling rates and radar frame formats.
 | Synchronization | Time-aligned within each sample            |
 
 ---
-
-*You may extend this README with License, Citation, Data Loading Examples, or Benchmark Tasks as needed.*
