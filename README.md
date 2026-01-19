@@ -1,5 +1,15 @@
 # FeelWave
 
+### 📥 Code Download
+
+The FeelWave code package can be downloaded here:
+**Google Drive:** [https://drive.google.com/drive/folders/1isG3mACO3UiiYJ_k3gRXmwK4nm9_b_L1?usp=drive_link](https://drive.google.com/drive/folders/1isG3mACO3UiiYJ_k3gRXmwK4nm9_b_L1?usp=drive_link)
+
+### 🎬 Demo Video
+
+A demonstration of FeelWave is available at:
+**YouTube Demo:** [https://youtu.be/j-PLP6Tuc9g](https://youtu.be/j-PLP6Tuc9g)
+
 This repository contains the core implementation of the **cross-modal emotion distillation framework**, where an audio-based teacher model transfers emotion-relevant representations to a mmWave-based student model.
 
 ---
@@ -46,11 +56,15 @@ FeelWave_Code
 
 ### 📥 Download Link
 
-The dataset is hosted on Google Drive and can be accessed here:
+The dataset includes:
+
+* **Processed HDF5 files (~3.43 GB)**
+* **Raw mmWave + audio data (~87 GB)**
+  The dataset is hosted on Google Drive and can be accessed here:
 
 **Google Drive:** [https://drive.google.com/drive/folders/1cz9HyZnOnnnz9P6w1o-4E_5BA-7EFUrJ?usp=drive_link](https://drive.google.com/drive/folders/1cz9HyZnOnnnz9P6w1o-4E_5BA-7EFUrJ?usp=drive_link)
 
-**EmoDataset** is a paired **mmWave–audio emotional speech** dataset collected in an **IRB-approved** study. Over one month, **27 stage actors** (11 male, 16 female, aged 18–31) were recruited to perform scripted emotional speech while synchronized **mmWave IF signals** and **audio waveforms** were recorded.
+**EmoDataset** is a paired **mmWave–audio emotional speech** dataset collected in an **IRB-approved** study. Over one month, **27 stage actors** (11 male, 16 female, aged 18–31) were recruited to perform emotional speech while synchronized **mmWave IF signals** and **audio waveforms** were recorded.
 
 The dataset supports research on multimodal emotion sensing, vocal biomechanics, robust speech modeling, and mmWave–audio alignment.
 
@@ -134,6 +148,7 @@ Meaning:
 
 * **time_mmwave** — mmWave vocal vibration sequence
 * **time_audio** — synchronized audio waveform
+* **word_timing_audio** — word-level timing annotations used **only** by the audio teacher model during **offline distillation**; they are **not** used in FeelWave’s online inference and therefore introduce **no latency**
 
 All data are time-aligned.
 
