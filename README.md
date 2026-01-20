@@ -2,8 +2,7 @@
 
 ### 📥 Code Download
 
-The FeelWave code package can be downloaded here:
-**Google Drive:** [https://drive.google.com/drive/folders/1isG3mACO3UiiYJ_k3gRXmwK4nm9_b_L1?usp=drive_link](https://drive.google.com/drive/folders/1isG3mACO3UiiYJ_k3gRXmwK4nm9_b_L1?usp=drive_link)
+The FeelWave code package can be downloaded here: https://pan.ustc.edu.cn/share/index/8e1ee29b7d6e4a78ae25
 
 ### 🎬 Demo Video
 
