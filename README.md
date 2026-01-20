@@ -2,7 +2,7 @@
 
 ### 📥 Code Download
 
-The FeelWave code package can be downloaded here: https://pan.ustc.edu.cn/share/index/8e1ee29b7d6e4a78ae25
+The FeelWave code package can be downloaded here: https://pan.ustc.edu.cn/share/index/8e1ee29b7d6e4a78ae25.
 
 ### 🎬 Demo Video
 
