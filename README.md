@@ -59,9 +59,7 @@ The dataset includes:
 
 * **Processed HDF5 files (~3.43 GB)**
 * **Raw mmWave + audio data (~87 GB)**
-  The dataset is hosted on Google Drive and can be accessed here:
-
-**Google Drive:** [https://drive.google.com/drive/folders/1cz9HyZnOnnnz9P6w1o-4E_5BA-7EFUrJ?usp=drive_link](https://drive.google.com/drive/folders/1cz9HyZnOnnnz9P6w1o-4E_5BA-7EFUrJ?usp=drive_link)
+  The dataset is hosted on Google Drive and can be accessed here: https://pan.ustc.edu.cn/share/index/9fb5b7a0cc3247d0bb85.
 
 **EmoDataset** is a paired **mmWave–audio emotional speech** dataset collected in an **IRB-approved** study. Over one month, **27 stage actors** (11 male, 16 female, aged 18–31) were recruited to perform emotional speech while synchronized **mmWave IF signals** and **audio waveforms** were recorded.
 
