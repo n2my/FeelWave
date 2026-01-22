@@ -7,7 +7,7 @@ The FeelWave code package can be downloaded here: https://pan.ustc.edu.cn/share/
 ### 🎬 Demo Video
 
 A demonstration of FeelWave is available at:
-**YouTube Demo:** [https://youtu.be/j-PLP6Tuc9g](https://youtu.be/j-PLP6Tuc9g)
+**YouTube Demo:** [https://youtu.be/j-PLP6Tuc9g](https://youtu.be/j-PLP6Tuc9g).
 
 This repository contains the core implementation of the **cross-modal emotion distillation framework**, where an audio-based teacher model transfers emotion-relevant representations to a mmWave-based student model.
 
