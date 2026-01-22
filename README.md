@@ -49,7 +49,7 @@ FeelWave_Code
 
 ---
 
-# EmoDataset: Paired mmWave–Audio Emotional Speech Dataset
+# EmoDataset: Paired mmWave-Audio Emotional Speech Dataset
 
 ## 📘 Overview
 
@@ -62,15 +62,15 @@ The dataset includes:
   
 The dataset can be downloaded here: https://pan.ustc.edu.cn/share/index/9fb5b7a0cc3247d0bb85.
 
-**EmoDataset** is a paired **mmWave–audio emotional speech** dataset collected in an **IRB-approved** study. Over one month, **27 stage actors** (11 male, 16 female, aged 18–31) were recruited to perform emotional speech while synchronized **mmWave IF signals** and **audio waveforms** were recorded.
+**EmoDataset** is a paired **mmWave-audio emotional speech** dataset collected in an **IRB-approved** study. Over one month, **27 stage actors** (11 male, 16 female, aged 18-31) were recruited to perform emotional speech while synchronized **mmWave IF signals** and **audio waveforms** were recorded.
 
-The dataset supports research on multimodal emotion sensing, vocal biomechanics, robust speech modeling, and mmWave–audio alignment.
+The dataset supports research on multimodal emotion sensing, vocal biomechanics, robust speech modeling, and mmWave-audio alignment.
 
 ---
 
 ## 🎭 Emotion Taxonomy
 
-A six-category emotion set covering a broad valence–arousal range:
+A six-category emotion set covering a broad valence-arousal range:
 
 * **happy**
 * **calm**
@@ -178,7 +178,7 @@ Raw data maintain their native sampling rates and radar frame formats.
 
 | Component       | Description                                |
 | --------------- | ------------------------------------------ |
-| Participants    | 27 stage actors (aged 18–31)               |
+| Participants    | 27 stage actors (aged 18-31)               |
 | Emotions        | happy, calm, angry, tense, sad, bored      |
 | Sentences       | 18 phrases from *ok-google.io*             |
 | Modalities      | audio + mmWave IF signals                  |
